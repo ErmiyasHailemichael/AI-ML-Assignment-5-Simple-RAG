@@ -409,13 +409,15 @@ AI-ML-Assignment-5-Simple-RAG/
 
 ---
 
-## Youtube 
-[https://youtu.be/VfgCVrLyt5E]
+## License
+
+This project is created for educational purposes as part of an AI/ML course assignment.
 
 ---
 
 ## Acknowledgments
 
+- Course instructor and teaching assistants
 - Hugging Face for providing open-source models
 - Sentence Transformers library developers
 - Google Colab for free computational resources

@@ -409,8 +409,8 @@ AI-ML-Assignment-5-Simple-RAG/
 
 ---
 
-## Youtube 
-[https://youtu.be/VfgCVrLyt5E]
+## Youtube Video
+[Link](https://youtu.be/VfgCVrLyt5E)
 
 ---
 
